@@ -33,6 +33,9 @@ This can be used in Apartments,House,Storage tanks.
 # Block Diagram
 ![blockdiagram](https://user-images.githubusercontent.com/101317269/164609161-7d24d958-9ebf-41c1-b78d-a3db91142d01.png)
 
+# Circuit Diagram
+![on](https://user-images.githubusercontent.com/101317269/164612761-1b53761e-afb9-4d71-b0b9-e32ca946cb1d.png)
+
 
 
 
